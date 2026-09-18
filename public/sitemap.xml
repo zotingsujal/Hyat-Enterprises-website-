@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://hyat-enterprises.netlify.app/</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://hyat-enterprises.netlify.app/hero_sunlit_interior.jpg</image:loc>
+      <image:title>Hyat Enterprises Luxury Interior Design and Contracting Mumbai</image:title>
+      <image:caption>Turnkey interior design, custom furniture and architectural fabrication in Santacruz, Mumbai</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://hyat-enterprises.netlify.app/grill_iron_fabrication.jpg</image:loc>
+      <image:title>Architectural Iron and Grill Fabrication Santacruz Mumbai</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://hyat-enterprises.netlify.app/custom_furniture_fabrication.jpg</image:loc>
+      <image:title>Bespoke Custom Furniture and Woodwork Mumbai</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://hyat-enterprises.netlify.app/custom_iron_teapoy.jpg</image:loc>
+      <image:title>Handcrafted Custom Iron Teapoy Stand Mumbai</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://hyat-enterprises.netlify.app/structural_steel_aluminium_sliding.jpg</image:loc>
+      <image:title>Structural Steel and Aluminium Sliding Windows Mumbai</image:title>
+    </image:image>
+  </url>
+</urlset>

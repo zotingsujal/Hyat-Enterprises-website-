@@ -19,6 +19,7 @@ export const Navbar: React.FC<NavbarProps> = ({ onConsultationClick, onContactCl
     { name: 'Projects', href: '#projects' },
     { name: 'Process', href: '#process' },
     { name: 'Testimonials', href: '#testimonials' },
+    { name: 'FAQ', href: '#faq' },
     { name: 'Contact', href: '#contact', onClick: handleContact }
   ];
 

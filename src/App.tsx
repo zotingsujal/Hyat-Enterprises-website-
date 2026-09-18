@@ -8,6 +8,7 @@ import { WhyChooseUsSection } from './components/WhyChooseUsSection';
 import { ProjectGallery } from './components/ProjectGallery';
 import { ProcessSection } from './components/ProcessSection';
 import { TestimonialsSection } from './components/TestimonialsSection';
+import { LocalFaqSection } from './components/LocalFaqSection';
 import { LeadGenSection } from './components/LeadGenSection';
 import { ContactSection } from './components/ContactSection';
 import { Footer } from './components/Footer';
@@ -81,7 +82,12 @@ export default function App() {
         {/* 7. Testimonials Section: Auto side-scrolling carousel */}
         <TestimonialsSection />
 
-        {/* 8. Lead Generation Section: Planning Your Next Project? */}
+        {/* 8. Local Mumbai SEO FAQ & Service Coverage Section */}
+        <LocalFaqSection
+          onConsultationClick={() => handleConsultation('Turnkey Interior')}
+        />
+
+        {/* 9. Lead Generation Section: Planning Your Next Project? */}
         <LeadGenSection
           onConsultationClick={() => handleConsultation('New Project')}
         />
