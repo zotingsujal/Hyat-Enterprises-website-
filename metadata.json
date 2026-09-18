@@ -1,0 +1,8 @@
+{
+  "name": "Hyat Enterprises",
+  "description": "Hyat Enterprises provides interior design, interior contracting, structural design, custom furniture, fabrication and renovation solutions in Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
